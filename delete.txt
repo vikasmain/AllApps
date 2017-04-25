@@ -1,0 +1,2 @@
+delete gdkksd
+make github repo that will contain all your apks or upload them on websites.
